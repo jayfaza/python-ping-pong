@@ -1,6 +1,6 @@
 # Python-ping-pong is a simple game on python pygame library.
 ---
-<img width="1000" height="488" alt="2026-04-25_18-32-44" src="https://github.com/user-attachments/assets/5f1310d8-2f1f-4edd-97f9-358bf40f9dac" />
+<img width="1494" height="588" alt="2026-04-25_18-45-25" src="https://github.com/user-attachments/assets/e1b531da-587e-45e8-98a8-13ffc21c6a10" />
 
 ---
 
